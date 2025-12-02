@@ -1,3 +1,5 @@
+ADICIONADO SISTEMA DE AVISOS
+
 ## 🎓 AppScholar - Sistema de Gestão Escolar
 
 Sistema completo de gestão acadêmica com React Native (Expo) e Node.js.
