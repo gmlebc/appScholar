@@ -56,7 +56,7 @@ export const verificarPerfil = (perfisPermitidos: string[]) => {
 
     if (!perfisPermitidos.includes(req.usuario.perfil)) {
       return res.status(403).json({
-        erro: "Acesso negado. Permissão insuficiente.",
+        erro: "Acesso negado. Permissão insuficiente",
       });
     }
 
